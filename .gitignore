@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BankOCR/bin/Debug/netcoreapp2.1
+/BankOCR/obj
+*.dll
+*.pdb
+/.vs/BankOCR/v15/Server/sqlite3
+/BankOCR.Tests/bin/Debug/netcoreapp2.1
+/BankOCR.Tests/obj
